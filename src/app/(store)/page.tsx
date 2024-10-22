@@ -40,11 +40,11 @@ export default async function Home() {
 						className="rounded"
 						height={450}
 						width={450}
-						src="https://files.stripe.com/links/MDB8YWNjdF8xT3BaeG5GSmNWbVh6bURsfGZsX3Rlc3RfaDVvWXowdU9ZbWlobUIyaHpNc1hCeDM200NBzvUjqP"
+						src="https://files.stripe.com/v1/files/file_1Mr4LDLkdIwHu7ixFCz0dZiH/contents"
 						style={{
 							objectFit: "cover",
 						}}
-						sizes="(max-width: 640px) 70vw, 450px"
+						sizes="(max-width: 640px) 70vw, 400px"
 					/>
 				</div>
 			</section>
